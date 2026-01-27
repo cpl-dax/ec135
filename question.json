@@ -1,0 +1,504 @@
+[
+  {
+    "question":"(Système de sustentation) Le système du rotor principal est:",
+    "options":[
+      "Réponse A<br>Un systeme sans articulation. Une tête de rotor rigide en titane avec des manchons de commande intégrés.",
+      "Réponse B<br>Un rotor sans articulation en battement et en traînée. Pales en matériaux composites avec des manchons de commande intégrés.",
+      "Réponse C<br>Un rotor non articulé. Une tête de rotor en matériaux composites avec des pales en matériaux composites.",
+      "Réponse D<br>Un rotor non articulé. Des pales en matériaux composites avec des roulements intégrés."
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Système de sustentation)Les mouvements de traînée et de battement:",
+    "options":[
+      "Réponse A<br>sont autorisés par la tête de rotor flexible",
+      "Réponse B<br>sont éliminés par la tête de rotor rigide",
+      "Réponse C<br>sont autorisés par des zones de torsion souple",
+      "Réponse D<br>sont éliminés par les pales de rotor rigides"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Système de sustentation)Les ARIS:",
+    "options":[
+      "Réponse A<br>isolent le fuselage des vibrations induites par le rotor",
+      "Réponse B<br>éliminent les vibrations du rotor",
+      "Réponse C<br>isolent le rotor des vibrations induites par le fuselage",
+      "Réponse D<br>éliminent toutes les vibrations"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Système de sustentation)Le circuit de lubrification de la boite de transmission principale est:",
+    "options":[
+      "Réponse A<br>Un circuit à carter humide, une pompe à huile",
+      "Réponse B<br>Un circuit à carter sec, une pompe à huile",
+      "Réponse C<br>Un circuit à carter humide, deux pompes à huile",
+      "Réponse D<br>Un circuit à carter sec, deux pompes à huile"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Système de sustentation)Le système de refroidissement de la transmission principale comprend:",
+    "options":[
+      "Réponse A<br>deux ventilateurs entraînés mécaniquement, deux sections de radiateur d'huile",
+      "Réponse B<br>un ventilateur entraîné mécaniquement, deux sections de radiateur d'huile",
+      "Réponse C<br>deux ventilateurs entraînés mécaniquement, une section de radiateur d'huile",
+      "Réponse D<br>un ventilateur entraîné mécaniquement, une section de radiateur d'huile"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Système de sustentation)Le système de frein rotor est un système:",
+    "options":[
+      "Réponse A<br>Mécanique",
+      "Réponse B<br>Électrique",
+      "Réponse C<br>Electro-hydraulique",
+      "Réponse D<br>Hydro-mécanique"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Fuselage - Structure arrière) L'ossature cabine est constituée:",
+    "options":[
+      "Réponse A<br>de tuyauteries soudées en aluminium",
+      "Réponse B<br>d'une construction d'une seule pièce en fibre de carbone",
+      "Réponse C<br>d'une structure hybride (fibre de verre, fibre de carbone et aluminium)",
+      "Réponse D<br>d'une structure en sandwich en fibre de verre / aluminium"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Fuselage - Structure arrière) Le montant central:",
+    "options":[
+      "Réponse A<br>est une structure soumise aux efforts, comprenant les bielles de commandes et les tuyauteries d'huile du frein rotor",
+      "Réponse B<br>est une structure non soumise aux efforts, comprenant uniquement les bielles de commande",
+      "Réponse C<br>est une structure non soumise aux efforts, comprenant les bielles de commande et la commande à bille",
+      "Réponse D<br>est une structure soumise aux efforts, comprenant tous les câbles de commande"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Fuselage - Structure arrière) Les pompes de carburant dans le réservoir sont accessibles par:",
+    "options":[
+      "Réponse A<br>le plancher cabine",
+      "Réponse B<br>les panneaux latéraux",
+      "Réponse C<br>la barque",
+      "Réponse D<br>le plancher moteur"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Fuselage - Structure arrière) La structure arrière (poutre de queue) est constituée:",
+    "options":[
+      "Réponse A<br>d'une structure hybride (aluminium / fibre de verre)",
+      "Réponse B<br>d'une construction semi-monocoque en aluminium",
+      "Réponse C<br>d'une construction semi-monocoque en titane",
+      "Réponse D<br>de matériau composite (principalement fibre de carbonne)"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Fuselage - Structure arrière) Le plan fixe horizontal:",
+    "options":[
+      "Réponse A<br>est boulonné à la poutre de queue et possède et possède un réglage fixe",
+      "Réponse B<br>est variable dans l'axe de tangage et est couplé au manche cyclique",
+      "Réponse C<br>est variable dans l'axe de tangage et est couplé au manche collectif",
+      "Réponse D<br>est collé à la poutre de queue"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Fuselage - Structure arrière) La lubrification de la boîte de transmission arrière est effectuée par:",
+    "options":[
+      "Réponse A<br>carter sec, pompe entraînée mécaniquement",
+      "Réponse B<br>carter humide, pompe entraîné mécaniquement",
+      "Réponse C<br>carter humide, lubrification par barbotage",
+      "Réponse D<br>carter sec, lubrification par barbotage"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Commandes de vol) Les commandes de vol sont effectuées par:",
+    "options":[
+      "Réponse A<br>des bielles de commandes pour le cyclique, le collectif et le lacet",
+      "Réponse B<br>des bielles de commandes pour le cyclique et le collectif, une commande à bille pour le lacet",
+      "Réponse C<br>des bielles de commande pour le cyclique, des commandes à bille pour le collectif et le lacet",
+      "Réponse D<br>des commandes à bille pour le cyclique, le collectif et le lacet"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Commandes de vol) Système de compensation (Trim system):",
+    "options":[
+      "Réponse A<br>un bouton à 4 voies et un bouton-poussoir ATT TRIM RELEASE (FTR), situés sur le manche cyclique",
+      "Réponse B<br>un bouton à 4 voies sur le manche cyclique uniquement",
+      "Réponse C<br>un bouton à 4 voies situé sur le manche cyclique et un bouton de trim palonnier situé à l'avant du siège pilote",
+      "Réponse D<br>un bouton-poussoir ATT TRIM RELEASE (FTR) situé sur le manche collectif et un bouton à 4 voies situé sur le manche cyclique"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Commandes de vol) Le capteur du taux de lacet pour le système d'augmentation de stabilité en lacet (YAW SAS) est:",
+    "options":[
+      "Réponse A<br>l'horizon artificiel du pilote",
+      "Réponse B<br>un gyroscope à fibre optique",
+      "Réponse C<br>le gyroscope directionnel du pilote",
+      "Réponse D<br>le gyroscope directionnel du copilote"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Commandes de vol) Les commandes assistées hydrauliquement sont:",
+    "options":[
+      "Réponse A<br>le manche cyclique et le manche collectif",
+      "Réponse B<br>le manche collectif et le palonnier",
+      "Réponse C<br>le manche cyclique, le manche collectif et le palonnier",
+      "Réponse D<br>le manche cyclique et le palonnier"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Commandes de vol) L'interrupteur HYD TEST:",
+    "options":[
+      "Réponse A<br>est utilisé pour couper les deux systèmes hydrauliques simultanément pour des tests de fonctionnement",
+      "Réponse B<br>est utilisé pour avoir une lecture de la pression hydraulique sur le CDS ou CAD",
+      "Réponse C<br>est utilisé pour activer les deux systèmes hydrauliques simultanément pour des tests de fonctionnement",
+      "Réponse D<br>permet de vérifier le fonctionnement correct d'un système hydraulique alors que le deuxième est désactivé"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Commandes de vol) La servocommande du rotor arrière est alimentée par:",
+    "options":[
+      "Réponse A<br>sa propre pompe fixée au niveau de la boîte de transmission principale",
+      "Réponse B<br>les deux systèmes hydrauliques",
+      "Réponse C<br>le système hydraulique n° 1",
+      "Réponse D<br>le système hydraulique n° 2"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Groupe turbomoteur et circuit carburant) Le système compresseur des moteurs Arrius 2B1/2B2 comprend:",
+    "options":[
+      "Réponse A<br>une entrée d'air axiale, un étage de compresseur axial et un étage de compresseur centrifuge",
+      "Réponse B<br>une entrée d'air radiale, un étage de compresseur centrifuge",
+      "Réponse C<br>une entrée d'air radiale, un étage de compresseur axial et un étage de compresseur centrifuge",
+      "Réponse D<br>une entrée d'air axiale, un étage de compresseur centrifuge"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Groupe turbomoteur et circuit carburant) L'alimentation électrique du système FADEC (EECU) est effectuée:",
+    "options":[
+      "Réponse A<br>par l'alternateur installé sur le moteur uniquement",
+      "Réponse B<br>par l'alternateur installé sur le moteur ou par le système électrique de l'appareil (équipement présentant la tension la plus élevée)",
+      "Réponse C<br>par le système électrique de l'appareil uniquement",
+      "Réponse D<br>par l'alteranteur installé sur le moteur ou par le système électrique de l'appareil (équipement présentant la tension la plus basse)"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Groupe turbomoteur et circuit carburant) En cas de panne totale du FADEC (EECU) du moteur n° 1 :",
+    "options":[
+      "Réponse A<br>le FADEC du moteur n° 2 prend automatiquement la commande du moteur n° 1",
+      "Réponse B<br>le moteur n° 1 est automatiquement coupé",
+      "Réponse C<br>la puissance de sortie du moteur n° 1 est « gelée » et ne peut plus être modifiée",
+      "Réponse D<br>seule une commande manuelle est possible, en utilisant la poignée tournante"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Groupe turbomoteur et circuit carburant) Le système de couplemètre des moteurs Arius 2B1/2B2 est:",
+    "options":[
+      "Réponse A<br>une pression d'huile moteur modulée avec une indication électrique",
+      "Réponse B<br>un système de capteur optique montrant la torsion de l'arbre d'entraînement",
+      "Réponse C<br>un système de déphasage utilisant une roue phonique sur l'arbre d'entraînement ",
+      "Réponse D<br>un système de capteur optique montrant le déplacement axial du pignon du couplemètre"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Groupe turbomoteur et circuit carburant) Le transfert de carburant du réservoir principal vers les nourrices est effectué:",
+    "options":[
+      "Réponse A<br>par deux « pompes de transfert » électriques",
+      "Réponse B<br>par deux « pompes de gavage » mécaniques",
+      "Réponse C<br>par deux « pompes de gavage » électriques",
+      "Réponse D<br>par deux « pompes de transfert » mécaniques"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Groupe turbomoteur et circuit carburant) Le rôle du vase d'expansion est:",
+    "options":[
+      "Réponse A<br>de recevoir le trop plein de carburant en provenance du réservoir principal et des nourrices, provoqué par une augmentation de volume dans le cas d'un échauffement de carburant",
+      "Réponse B<br>de stocker du carburant supplémentaire pour accroître la durée du vol",
+      "Réponse C<br>de stocker le carburant de retour en provenance des moteurs",
+      "Réponse D<br>de stocker le carburant vidangé"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Circuit électrique) Une indication BAT DISCON sur le CAD indique que:",
+    "options":[
+      "Réponse A<br>la batterie n'est pas connectée aux barres essentielles (essential busses)",
+      "Réponse B<br>la batterie n'est pas connectée aux barres primary (primary busses)",
+      "Réponse C<br>la batterie n'est pas connectée à la barre batterie (battery busses)",
+      "Réponse D<br>la batterie est vide"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Circuit électrique) Les barres essentielles (ESSANTIAL bus bars) peuvent être alimentées par les d'alimentation suivantes:",
+    "options":[
+      "Réponse A<br>les génératrices uniquement",
+      "Réponse B<br>la batterie et le groupe de parc uniquement",
+      "Réponse C<br>la batterie, le groupe de parc et l'une des génératrices",
+      "Réponse D<br>les deux génératrices et le groupe de parc uniquement"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Circuit électrique) Avec l'interrupteur SHED BUS positionné sur NORM, les barres de délestage (shedding bus bars) ne sont pas alimentées dans la configuration du système suivante:",
+    "options":[
+      "Réponse A<br>les deux génératrices en fonctionnement",
+      "Réponse B<br>seule une génératrice en fonctionnement",
+      "Réponse C<br>le système électrique alimenté par le groupe de parc",
+      "Réponse D<br>le système électrique alimenté par la batterie uniquement"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Circuit électrique) La batterie peut-être chargée par:",
+    "options":[
+      "Réponse A<br>une génératrice et le groupe de parc",
+      "Réponse B<br>les deux génératrice et le groupe de parc",
+      "Réponse C<br>le groupe de parc",
+      "Réponse D<br>l'une des génératrices"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Circuit électrique) La température de la batterie est surveillée par:",
+    "options":[
+      "Réponse A<br>un voyant d'alarme",
+      "Réponse B<br>une jauge de température et un voyant d'alarme",
+      "Réponse C<br>une jauge de température et deux voyants d'alarme",
+      "Réponse D<br>deux voyants d'alarme"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Circuit électrique) Le voyant d'avertissement EXT POWER sur le CAD indique que:",
+    "options":[
+      "Réponse A<br>la tension du groupe de parc est inférieure à 27,5 V",
+      "Réponse B<br>la tension du groupe de parc est supérieure à 29 V",
+      "Réponse C<br>la trappe du groupe de parc est ouverte",
+      "Réponse D<br>un groupe de parc actif est connecté à l'hélicoptère"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Opération) Le voyant d'avertissement ENG FAIL sur le côté du système 1 du CAD indique:",
+    "options":[
+      "Réponse A<br>le régime N2 du moteur n° 1 est inférieur à 95 %",
+      "Réponse B<br>le régime NRO est inférieur à 95 %",
+      "Réponse C<br>les indications N1 présentent une différence supérieure ou égale à 12 %",
+      "Réponse D<br>le régime N1 du moteur n°1 est inférieur ou égal à 50 %"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Opération) Un allumage simultané du voyant d'avertissement EXT POWER sur le CAD et du voyant d'alarme BAT DISCH:",
+    "options":[
+      "Réponse A<br>indique que la tension du groupe de parc est inférieure à la tension de la batterie",
+      "Réponse B<br>n'est pas possible",
+      "Réponse C<br>indique que la tension du groupe de parc est supérieure à la tension de la batterie",
+      "Réponse D<br>indique le débit de courant de la batterie vers le groupe de parc"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Opération) La vitesse maximale pour une autorotation constante:",
+    "options":[
+      "Réponse A<br>70 kts",
+      "Réponse B<br>80 kts",
+      "Réponse C<br>90 kts",
+      "Réponse D<br>100 kts"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Opération) Si un interrupteur FADEC est accidentellement placé en position OFF lors du vol, ceci provoquera:",
+    "options":[
+      "Réponse A<br>le basculement du système de commande moteur correspondant en mode manuel (MANUEL mode)",
+      "Réponse B<br>que le système de commande moteur correspondant est « gelé » à la puissance de sortie actuelle",
+      "Réponse C<br>aucun changement (le FADEC correspondant reste complètement opérationnel, seul REDUND sera indiqué sur le CAD)",
+      "Réponse D<br>une différence de couple lors des changements de puissance"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Opération) Lesquelles des conditions suivantes doivent être remplies, afin de décharger une bouteille d'extincteur:",
+    "options":[
+      "Réponse A<br>le robinet coupe-feu fermé, le voyant d'alarme fire allumé et le régime N1 inférieur à 50%",
+      "Réponse B<br>le régime N1 inférieur à 50%, le voyant d'alarme allumé",
+      "Réponse C<br>l'interrupteur moteur en position OFF, le régime N1 inférieur à 50%",
+      "Réponse D<br>le robinet coupe-feu fermé et le régime N1 inférieur à 50%"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Opération) Les atterrissages en dévers avec l'indicateur du mast moment non opérationnel sont possibles jusqu'à:",
+    "options":[
+      "Réponse A<br>14° position dévers vers l'arrière",
+      "Réponse B<br>8° position dévers à droite",
+      "Réponse C<br>12° position dévers à droite",
+      "Réponse D<br>6° position dévers vers l'avant"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Opération) Le voyant d'alarme XMSN OIL P indique que:",
+    "options":[
+      "Réponse A<br>les deux pressions d'huile BTP sont trop élevées oun trop faibles (supérieures à 7,8 bars ou inférieures à  0,5 bar)",
+      "Réponse B<br>les deux pressions BTP sont trop faibles (inférieures à 0,5 bar)",
+      "Réponse C<br>une pression BTP est trop faible (inférieure à 0,5 bar)",
+      "Réponse D<br>l'indication de pression d'huile sur le CAD est en panne"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Opération) Vous volez avec un moteur (OEI) à PA 12000 ft, OAT +10)C, masse actuelle de 2450 kg. Quelle est votre VNE?",
+    "options":[
+      "Réponse A<br>90 kts",
+      "Réponse B<br>95 kts",
+      "Réponse C<br>100 kts",
+      "Réponse D<br>110 kts"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Opération) Le voyant d'avertissement F PUMP AFT s'allume sur le CAD. Qu'allez-vous faire?",
+    "options":[
+      "Réponse A<br>vérifier le niveau de carburant du réservoir principal, l'interrupteur de la pompe de transfert et le disjoncteur",
+      "Réponse B<br>vérifier le niveau de carburant du réservoir principal, réduire la puissance, atterrir dès que possible",
+      "Réponse C<br>réduire la puissance et atterrir dès que praticable",
+      "Réponse D<br>vérifier la panne de la pompe de transfert, positionner les interrupteurs PRIME POMP sur ON. Atterrir dès que praticable."
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Opération) Vous effectuez un vol de croisière à haute altitude et vous remarquez que le déplacement du manche collectif vers le haut est limité par la butée prioritaire inférieure à la PMC. Ceci est:",
+    "options":[
+      "Réponse A<br>sans objet. Le manche peut-être tiré davantage jusqu'à l'indication PMC",
+      "Réponse B<br>normal. La butée peut uniquement être dépassée en cas d'urgence",
+      "Réponse C<br>le résultat d'un  mauvais réglage. Une action de maintenance est nécesaire",
+      "Réponse D<br>évitable en sélectionnant le mode CAT A"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Opération) F QTY DEGR s'allume lorsque:",
+    "options":[
+      "Réponse A<br>un jaugeur de nourrice est tombé en panne",
+      "Réponse B<br>les deux jaugeurs de nourrice sont tombés en panne",
+      "Réponse C<br>les deux jaugeurs du réservoir principal sont tombés en panne",
+      "Réponse D<br>un jaugeur du réservoir principal est tombé en panne"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Opération) Lorsqu'une limitation quelconque est dépassée:",
+    "options":[
+      "Réponse A<br>noter le nombre des dépassements dans le livret appareil",
+      "Réponse B<br>noter la durée dans le livret appareil",
+      "Réponse C<br>noter le nombre des dépassements et les durées dans le livret appareil",
+      "Réponse D<br>vérifier l'absence des dommages sur l'hélicoptère"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Opération) un contrôle de puissance au sol à PA 4000 ft, OAT 0°C, utlisant 75% de couple, montre 740°C de TOT et 94% N1 sur le moteur n°1 et 750°C et 94,2% N1 sur le moteur N° 2:",
+    "options":[
+      "Réponse A<br>la performance du moteur 1 est supérieure à la spécification et la performance du moteur 2 est inférieure à la spécification",
+      "Réponse B<br>la performance des deux moteurs est inférieure à la spécification",
+      "Réponse C<br>le performance du moteur 1 est inférieure à la spécification et la performance du moteur 2 est supérieure à la spécification",
+      "Réponse D<br>la performance des deux moteurs est supérieure à la spécification"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Opération) IAS 110 kts, PA 8000 ft, OAT 0°C. Quelle est votre TAS?",
+    "options":[
+      "Réponse A<br>124 kts",
+      "Réponse B<br>113 kts",
+      "Réponse C<br>119 kts",
+      "Réponse D<br>129 kts"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Opération) OAT -10°C, PA 13000, air de prélèvement coupé, pas de vent. Quelle est la masse maximale pour un vol prolongé (c'est à dire plus de 10 minutes) en stationnaire en effet de sol?",
+    "options":[
+      "Réponse A<br>2670 kg",
+      "Réponse B<br>2835 kg",
+      "Réponse C<br>2630 kg",
+      "Réponse D<br>2720 kg"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"(Opération) Masse de 2200 kg, air de prélèvement coupé, pas de vent. Le vol stationnaire hors effet de sol à PA 10000 ftde PMC est:",
+    "options":[
+      "Réponse A<br>pas possible",
+      "Réponse B<br>possible jusqu'à 0°C",
+      "Réponse C<br>possible jusqu'à + 23°C",
+      "Réponse D<br>posible jusqu'à + 14°C"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Opération) Vous êtes en stationnaire à 30 ft au-dessus du sol à PA 5000 ft, OAT +1°C avec une masse de 2600 kg. Vous vous trouvez:",
+    "options":[
+      "Réponse A<br>dans une altitude critique / enveloppe de vitesse critique",
+      "Réponse B<br>dans une altitude critique / enveloppe de vitesse critique jusqu'à 5 kt",
+      "Réponse C<br>dans une altitude critique / enveloppe de vitesse critique jusqu'à 7 kt",
+      "Réponse D<br>hors d'une altitude critique / enveloppe de vitesse critique"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"(Opération) Mission de treuillage à PA 8000 ft, OAT + 5°C, pas de vent, air de prélèvement coupé. Masse à vide de l'hélicoptère 1800 kg, 2 membres d'équipage 160 kg, quantité totale de carburant 240 kg. Combien de personnes d'un poids de 80 kg chacune, peuvent être treuillées à bord de l'hélicoptère? (stationnaire HES/PMC/T2+, NR nominal)",
+    "options":[
+      "Réponse A<br>4",
+      "Réponse B<br>3",
+      "Réponse C<br>5",
+      "Réponse D<br>6"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"(Opération) Masse de 2700 kg, PA 9000 ft, OAT + 22°C, air de prélèvement coupé. Quel est le taux de montée AEO à PMC et Vy?",
+    "options":[
+      "Réponse A<br>1000 ft/min",
+      "Réponse B<br>900 ft/min",
+      "Réponse C<br>500 ft/min",
+      "Réponse D<br>300 ft/min"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"(Opération) Calcul CG - transport de passagers (disposition de 5 sièges), masse à vide 1532 kg, bras 4560 mm, moment de masse = 6 985 920 kgmm, 2 pilotes 180 kg au total, 3 passagers de 250 kg au total, nourrice 92 kg, réservoir principal 448 kg. La position du CG est:",
+    "options":[
+      "Réponse A<br>4228 mm, à l'intérieur des limitations",
+      "Réponse B<br>4390 mm, à l'intérieur des limitations",
+      "Réponse C<br>4109 mm, hors des limitations",
+      "Réponse D<br>4041 mm, hors des limitations"
+    ],
+    "answer": 0
+  }
+
+  
+]
