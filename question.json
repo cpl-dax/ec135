@@ -498,6 +498,196 @@
       "Réponse D<br>4041 mm, hors des limitations"
     ],
     "answer": 0
+  },
+  {
+    "question":"Quelles sont les versions d'EC 135 en service en gendarmerie?",
+    "options":[
+      "Réponse A<br>EC 135 T2 et EC 135 T2+, motorisés par Turboméca",
+      "Réponse B<br>EC 135 P2+ et EC 135 P2e, motorisés par Turboméca",
+      "Réponse C<br>EC 135 T2+ et EC 135 T2e, motorisés par Pratt et Whitney",
+      "Réponse D<br>EC 135 T2+ et EC 135 T2e, motorisés par Turboméca"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Les informations disponibles sur les instruments de secours sont, entre autres:<br><br>1 - vitesse (IAS)<br>2 - vitesse verticale<br>3 - altitude<br>4 - attitude machine (assiette + inclinaison)<br>5 - température extérieure<br>6 - régime N1 des deux moteurs<br><br>la combinaison juste est:",
+    "options":[
+      "Réponse A<br>1,2,3,5,6",
+      "Réponse B<br>2,4,5,6",
+      "Réponse C<br>1,3,4",
+      "Réponse D<br>3,4,6"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Soit les valeurs de couple ci-après:<br><br>1 - 2 x 69 %<br>2 - 2 x 78 %<br>3 - 2 x 89,5 %<br>4 - 2 x 128 %<br><br>Les valeurs limites de la PMD AEO (all engine operative) sont:",
+    "options":[
+      "Réponse A<br>1",
+      "Réponse B<br>2",
+      "Réponse C<br>3",
+      "Réponse D<br>4"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Soit les valeurs de couple ci-après:<br><br>1 - 1 x 78 %<br>2 - 1 x 125 %<br>3 - 1 x 128 %<br>4 - 1 x 89,5 %<br><br>La valeur limite de la plage OEI (one engine inoperative) est:",
+    "options":[
+      "Réponse A<br>1",
+      "Réponse B<br>2",
+      "Réponse C<br>3",
+      "Réponse D<br>4"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Quelles sont les conditions pour que l'appareil soit considéré en statut 'sol'?<br><br>1 - le régime N1 de l'un ou l'autre moteur < 50 %<br>2 - le régime N1 des deux moteurs < 50 %<br>3 - pression huile BTP < 1 bar<br>4 - pression huile moteur < 0,5 bar<br>5 - CLP < 28,5 %<br><br>la combinaison juste est:",
+    "options":[
+      "Réponse A<br>1,3,5",
+      "Réponse B<br>2,4,5",
+      "Réponse C<br>2,3",
+      "Réponse D<br>1,3"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Le CPDS est composé de:<br><br>1 - le PFD (Primary Flight Display)<br>2 - le ND (Navigation display)<br>3 - le VEMD (Vehicle & EngineMonitoring Display)<br>4 - le CAD (Caution and Advisory Display)<br><br>La combinaison juste est:",
+    "options":[
+      "Réponse A<br>1,2,4",
+      "Réponse B<br>1,3,4",
+      "Réponse C<br>1,3",
+      "Réponse D<br>3,4"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Sur le CAD, en fonctionnement normal, les informations disponibles sont notamment:<br><br>1 - consommation carburant<br>2 - limitations mécaniques (Tq, N1 et TOT)<br>3 - labels d'avertissement<br>4 - pression et température des pompes hydrauliques<br><br>La combinaison juste est:",
+    "options":[
+      "Réponse A<br>1,2,3,4",
+      "Réponse B<br>1,2,3",
+      "Réponse C<br>1,2",
+      "Réponse D<br>1,3"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Un point rouge sur le FLI signifie:",
+    "options":[
+      "Réponse A<br>point de déclenchement de l'OVERSPEED",
+      "Réponse B<br>début de plage OEI",
+      "Réponse C<br>limite de couple transitoire en PMD (10 s max)",
+      "Réponse D<br>limite de TOT au démarrage"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Parmi les propositions, quelles sont celles qui provoquent l'allumage du voyant LIMIT au FLI?<br><br>1 - dépassement de Tq<br>2 - dépassement de Mast Moment<br>3 - dépassement de N1<br>4 - dépassement de température moteur (ENG OVHT)<br>5 - dépassement de TOT<br>6 - dépassement de temps en PMD AEO ou OEI (Low et/ou High)<br>7 - dépassement de NRO (tours rotor > 112 %)",
+    "options":[
+      "Réponse A<br>1,2,3,4",
+      "Réponse B<br>1,3,5,6,7",
+      "Réponse C<br>1,2,3,5,6",
+      "Réponse D<br>toutes les propositions sont exactes"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Le 'gong' retentit chaque fois que:<br><br>1 - l'interrupteur batterie est mis sur marche (on ne tient pas compte de l'auto-test du système avec les alarmes sonores)<br>2 - en vol, ou au sol, quand un voyant s'allume au Warning unit (avec une particularité pour l'alarme rotor et ses 3 sonneries différentes)<br>3 - quand LIMIT apparait en rouge au FLI<br>4 - quand un indicateur de pression ou de température entre dans sa plage rouge à l'ELEC VEH<br><br>La bonne combinaison est:",
+    "options":[
+      "Réponse A<br>1,2,3,4",
+      "Réponse B<br>1,2,3",
+      "Réponse C<br>2,3,4",
+      "Réponse D<br>2,3"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"La BTP est entraînée par:",
+    "options":[
+      "Réponse A<br>deux arbres moteur et un RAC",
+      "Réponse B<br>deux ventilateurs situés à l'avant, qui tournent à 12666 tours par minute",
+      "Réponse C<br>deux arbres d'entraînement situés à gauche et à droite, à l'arrière",
+      "Réponse D<br>deux FADEC"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Le refroidissement de l'huile BTP est assuré:",
+    "options":[
+      "Réponse A<br>par un radiateur à double section, la petite section est dédiée à la BTP",
+      "Réponse B<br>par deux pompes situées sous la BTP qui refroidissent elles-même l'huile",
+      "Réponse C<br>par deux radiateurs à double section, situés de part et d'autre de la BTP, la grande section est dédiée au refroidissement des GTM",
+      "Réponse D<br>par deux radiateurs à double section, situés de part et d'autre de la BTP, la petite section est dédiée au refroidissement des GTM"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"En cas de baisse de pression d'huile BTP ( < 0,5 bar) SYS 1:<br><br>1 - allumage du voyant XMSN OIL P au CAD SYS 1<br>2 - le voyant XMSN OIL P SYS 2 s'allume 5 minutes après l'allumage au SYS 1<br>3 - allumage de XMSN OIL P au warning unit<br>4 - retentissement du 'gong'<br><br>la combinaison juste est:",
+    "options":[
+      "Réponse A<br>1",
+      "Réponse B<br>1,2",
+      "Réponse C<br>1,2,3",
+      "Réponse D<br>1,2,3,4"
+    ],
+    "answer": 0
+  },
+  {
+    "question":"Se référer à l'annexe<br>Sur l'image jointe qui représente la BTP, quelle pièce est représentée par une étoile?<br><img src=\"lubrification.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>le ventilateur",
+      "Réponse B<br>le filtre à huile",
+      "Réponse C<br>une pompe hydraulique",
+      "Réponse D<br>une pompe à huile"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Quelle est la fonction principale du dispositif ARIS?",
+    "options":[
+      "Réponse A<br>injecter plus de carburant sur ordre des FADEC",
+      "Réponse B<br>permettre un poser en dévers avec des limitations moins contraignantes",
+      "Réponse C<br>absorber tout le poids et tous les efforts de sustentation, transmis par la boîte de transmission principale et amortir les vibrations",
+      "Réponse D<br>stabiliser l'appareil sur l'axe de lacet"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Se référer à l'annexe<br>Quel(s) ensemble(s) peuvent être fixés sur les pièces dont la figure est jointe?<br><img src=\"mecanique.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>les GTM",
+      "Réponse B<br>la BTP",
+      "Réponse C<br>la baie avionique",
+      "Réponse D<br>la poutre de queue"
+    ],
+    "answer": 1
+  },
+  {
+    "question":"Se référer à l'annexe<br>Sur la figure jointe, qui représente la zone de fixation de la pale, quelle pièce est représentée par l'étoile et à quoi sert-elle?<br><img src=\"trainee.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>c'est un joint qui permet la fixation de la pale sur le moyeu",
+      "Réponse B<br>il s'agit de l'amortisseur de battement qui limite le déplacement de la pale dans le plan vertical",
+      "Réponse C<br>c'est un amortisseur de trainée qui limite le déplacement de la pale dans le plan de rotation",
+      "Réponse D<br>c'est un amortisseur de battement et de trainée, qui limite le déplacement de la pale dans le plan de rotation"
+    ],
+    "answer": 2
+  },
+  {
+    "question":"Se référer à l'annexe<br>Sur l'image jointe, quelle est la signification des labels apparents sur le SYS 2?<br><img src=\"CAD.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>la pompe de gavage est inopérante, la vanne carburant est en train de se fermer.",
+      "Réponse B<br>la pompe de gavage est inopérante, la vanne de carburant est fermée",
+      "Réponse C<br>la pompe de gavage est en fonctionnement et la vanne de carburant est ouverte",
+      "Réponse D<br>la pompe de gavage est en fonctionnement et la vanne de carburant est fermée"
+    ],
+    "answer": 3
+  },
+  {
+    "question":"Se référer à l'annexe<br>Sur la figure jointe, qui représente le carter de la BTA, quelle pièce est symbolisée par le cercle?<br><img src=\"BTA.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options":[
+      "Réponse A<br>l'indicateur de niveau d'huile",
+      "Réponse B<br>un accéléromètre",
+      "Réponse C<br>un gicleur",
+      "Réponse D<br>un détecteur de limaille"
+    ],
+    "answer": 3
   }
 
   
