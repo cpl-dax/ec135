@@ -197,7 +197,7 @@
       "Réponse C<br>par le système électrique de l'appareil uniquement",
       "Réponse D<br>par l'alteranteur installé sur le moteur ou par le système électrique de l'appareil (équipement présentant la tension la plus basse)"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "question":"(Groupe turbomoteur et circuit carburant) En cas de panne totale du FADEC (EECU) du moteur n° 1 :",
