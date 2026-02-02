@@ -928,7 +928,1039 @@
       "Réponse D<br>Le moteur est lubrifié par barbotage."
     ],
     "answer": 1
+  },
+  {
+    "question": "L'EC-135 est en maintenance dans le hangar avec la batterie déposée et le groupe de parc branché. Le pilote veut rentrer des données dans le NMS",
+    "options": [
+      "Réponse A<br>Il doit appuyer sur BAT MASTER seulement pour la mis en route du NMS",
+      "Réponse B<br>Il doit appuyer sur BAT MASTER et sur l'interrupteur NMS sur le plafonnier",
+      "Réponse C<br>Il doit appuyer sur BAT MASTER et sur les interrupteurs AVIO MASTER",
+      "Réponse D<br>Aucune des trois réponses n'est possible"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En vol, le label d'avertissement « GEN DISCON » apparaît au CAD dans la colonne de droite:",
+    "options": [
+      "Réponse A<br>Je ne peux plus utiliser la caméra MX-15",
+      "Réponse B<br>Je ne peux plus utiliser le treuil",
+      "Réponse C<br>Aucune influence, la deuxième génératrice alimente la totalité des systèmes",
+      "Réponse D<br>Toutes les réponses proposées sont fausses"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Les magnétomètres",
+    "options": [
+      "Réponse A<br>Se situent dans les flancs droit et gauche de l'appareil. Ils sont au nombre de deux",
+      "Réponse B<br>Un seul se trouve sous le plancher cabine",
+      "Réponse C<br>Se situent dans la poutre de queue. Ils sont au nombre de deux",
+      "Réponse D<br>Sont implantés dans le pylône et sont au nombre de deux"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le bouton « TST » situé sur l'ICP:",
+    "options": [
+      "Réponse A<br>Teste la sonde altimétrique et les ventilateurs du RAC Pélican",
+      "Réponse B<br>Teste la sonde altimétrique uniquement",
+      "Réponse C<br>Teste la sonde altimétrique et les ventilateurs du CPDS",
+      "Réponse D<br>Teste la navigation programmée au NMS"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "En appui patin lors de la dépose de passagers, le pilote m'informe que le MAST MOMENT est monté en plage jaune entre 50 % et 66 %:",
+    "options": [
+      "Réponse A<br>Je lui demande de poser, nous avons fait un dépassement de paramètre et je contacte mon RTU",
+      "Réponse B<br>Je lui demande de poser, je rentre dans le menu MAINTENANCE pour savoir combien de temps on est restés dans la plage jaune",
+      "Réponse C<br>Je le rassure et lui confirme qu'il n'y a pas de dépassement et que l'on peut poursuivre la mission",
+      "Réponse D<br>Je lui demande de poser afin de faire une extration des données à l'unité"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "La VNE absolue est de:",
+    "options": [
+      "Réponse A<br>140 kt",
+      "Réponse B<br>150 kt",
+      "Réponse C<br>155 kt",
+      "Réponse D<br>Dépend de la masse"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sur le CAD en fonctionnement normal, les informations disponibles sont notamment:<br><br>1 - consommation carburant<br>2 - limitations mécaniques (Tq, N1, TOT)<br>3 - labels d'avertissement<br>4 - pression et températures des pompes hydrauliques",
+    "options": [
+      "Réponse A<br>1, 2, 3, 4",
+      "Réponse B<br>1, 2, 3",
+      "Réponse C<br>1, 2",
+      "Réponse D<br>1, 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Circuit carburant",
+    "options": [
+      "Réponse A<br>FUEL QTY FAIL s’allume uniquement en cas de perte d’un jaugeur de nourrice.",
+      "Réponse B<br>FUEL QTY DEGR s’allume en cas de perte du ou des jaugeurs du réservoir principal.",
+      "Réponse C<br>En cas d’allumage du label FUEL QTY FAIL, l’indication carburant n’est plus utilisable mais le voyant LOW FUEL reste disponible.",
+      "Réponse D<br>Lors de l’éxécution de la panne FIRE, pour qu’il y ait pulvérisation des extincteurs, il faut que FIRE soit allumé et appuyer sur EMER OFF, la pulvérisation se produit alorsimmédiatement symbolisée par le voyant ACTIVE qui s’éteint lorsque l’extincteur est vide."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle est la signification du voyant « POS » sur le NMS?",
+    "options": [
+      "Réponse A<br>Panne majeure du système",
+      "Réponse B<br>Position dégradée ou mode DR",
+      "Réponse C<br>La position du point de destination est erronée",
+      "Réponse D<br>Fonctionnement normal du système"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Conditions de déclenchement du système incendie",
+    "options": [
+      "Réponse A<br>Voyant feu, les deux extincteurs se déclenchent automatiquement",
+      "Réponse B<br>Voyant feu s'allume, le pilote actionne l'interrupteur FIRE, l'extincteur est automatiquement déclenché dès que le N1 est inférieur à 50%",
+      "Réponse C<br>Voyant feu s'allume, le pilote actionne l'interrupteur FIRE, l'extincteur est automatiquement déclenché dès que le détecteur incendie atteint la vealeur de 300°C",
+      "Réponse D<br>Voyant feu s'allume, le pilote actionne l'interrupteur FIRE, l'extincteur est automatiquement déclenché dès que le N1 est inférieur à 50%, le second extincteur s'arme automatiquement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Panne moteur au décollage terrain ponctuel en CP1 (VTOL1):",
+    "options": [
+      "Réponse A<br>La hauteur de décision est de 120ft au dessus des obstacles",
+      "Réponse B<br>La hauteur de décision est de 120ft",
+      "Réponse C<br>Si j'ai moins de 30ft à 25kt, je dois interrompre mon décollage",
+      "Réponse D<br>À faible masse je peux poursuivre quelque soit l'annonce faite au briefing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "L'indication INP FAIL à la mise sous tension du CPDS signifie",
+    "options": [
+      "Réponse A<br>Qu'il faut réinitialiser un paramétrage dans la configuration du système",
+      "Réponse B<br>Est normal car les FADEC sont encore sur OFF",
+      "Réponse C<br>Qu'une information n'arrive pas au système et celle-ci est mentionnée",
+      "Réponse D<br>Il n'y a pas de cross-check entre les écrans VEMC et CAD"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En vol, en cas d'isolement de la batterie:",
+    "options": [
+      "Réponse A<br>Le treuil n'est plus utilisable",
+      "Réponse B<br>Les barres essentielles sont privées d'alimentation électrique",
+      "Réponse C<br>Les 'High load' sont perdus",
+      "Réponse D<br>Aucune conséquence sur le circuit, les GENE suffisent à alimenter les servitudes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Treuillage",
+    "options": [
+      "Réponse A<br>En cas de panne d’une génératrice en phase de treuillage, je finis le cycle en cours mais je n’engage pas un autre.",
+      "Réponse B<br>En cas de panne d’une génératrice en phase de treuillage, je peux poursuivre d’autres opérations de treuillage en réduisant la consommation électrique à moins de 50 A sur la génératrice restante.",
+      "Réponse C<br>En cas de panne d’une génératrice en phase de treuillage, je peux poursuivre d’autres opérations de treuillage en me limitant à 200 kg de charge au treuil.",
+      "Réponse D<br>En cas de double panne de génératrices, je termine le cycle en cours, mais je n’en engage pas d’autre."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Treuillage",
+    "options": [
+      "Réponse A<br>En cas de panne d’une génératrice en phase de treuillage, je finis le cycle en cours mais je n’engage pas un autre.",
+      "Réponse B<br>En cas de panne d’une génératrice en phase de treuillage, je peux poursuivre d’autres opérations de treuillage en réduisant la consommation électrique à moins de 150 A sur la génératrice restante.",
+      "Réponse C<br>En cas de panne d’une génératrice en phase de treuillage, je peux poursuivre d’autres opérations de treuillage en me limitant à 150 kg de charge au treuil.",
+      "Réponse D<br>En cas de double panne de génératrices, je termine le cycle en cours, mais je n’en engage pas d’autre."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En cas d'utilisation du groupe de parc:<br><br>1- la batterie doit être sur arrêt<br>2- la batterie est rechargée<br>3- les high load sont alimentés<br>4- la tension du groupe de parc est toujours supérieure à la tension de la batterie<br>5- les GENE doivent être sur 'marche'<br>6- le treuil n'est pas utilisable<br><br>La bonne combinaison est:",
+    "options": [
+      "Réponse A<br>3,5",
+      "Réponse B<br>1,3,5",
+      "Réponse C<br>3 seulement",
+      "Réponse D<br>2,3,4,5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Se référer à l'annexe<br>Sur la figure jointe, quel ensemble de pièces est indiqué par le carré?<br><img src=\"freinrotor.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options": [
+      "Réponse A<br>Le disque de frein rotor",
+      "Réponse B<br>L'arbre d'entraînement",
+      "Réponse C<br>La roue modulaire",
+      "Réponse D<br>La roue libre"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Se référer à l'annexe<br>Sur la figure jointe, quel ensemble de pièces est indiqué par le carré?<br><img src=\"freinrotor.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options": [
+      "Réponse A<br>L'alternateur du FADEC",
+      "Réponse B<br>L'arbre d'entraînement",
+      "Réponse C<br>La roue modulaire",
+      "Réponse D<br>La fixation de l'arbre de transmission arrière"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Indiquer la procédure à employer pour un démarrage manuel de l'EC 135 T2+:<br><br>1- FADEC sur OFF<br>2- ENG MAN sur ON<br>3- TWIST GRIP en plage secours<br>4- GENE sur ON<br>5- VENTIL sur ON durant 15 secondes<br><br>Dans l'ordre, les actions à exécuter sont:",
+    "options": [
+      "Réponse A<br>2,1,5,4,3",
+      "Réponse B<br>1,2,3,4,5",
+      "Réponse C<br>4,1,2,3,5",
+      "Réponse D<br>Aucune combinaison ne convient: le démarrage manuel n'est pas possible"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "La poutre de queue",
+    "options": [
+      "Réponse A<br>Est constitutée de carbone et d'aluminium pour allèger au maximum",
+      "Réponse B<br>Est entèrement en aluminium galvanisé pour augmenter sa résistance et éviter la corrosion",
+      "Réponse C<br>Est construite dans une seule pièce de carbone",
+      "Réponse D<br>Est constituée d'une structure sandwich avec un revêtement de fibre de carbone et de verre"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Vous êtes en panne d'indicateur de 'mast moment'. Vous prenez la décision:",
+    "options": [
+      "Réponse A<br>Cela ne peut pas se produire, car le système est doublé",
+      "Réponse B<br>Cela n'a aucune influence pour le vol, hormis pour les posés où vous serez limité à 6° de pente dans toutes les directions",
+      "Réponse C<br>D'écourter le vol, en rejoignant votre base",
+      "Réponse D<br>De poser immédiatement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "La génération alternative des circuits de l'EC 135 est assurée par:",
+    "options": [
+      "Réponse A<br>Un convertisseur statique pour le SAS, un alternateur par FADEC pour son alimentation seule",
+      "Réponse B<br>Un alternateur sur chaque moteur pour la totalité des circuits",
+      "Réponse C<br>Un alternateur par FADEC pour leur alimentation et un convertisseur statique en cas de secours",
+      "Réponse D<br>Un convertisseur statique pour le PA et un alternateur pour les FADEC pour leur propre alimentation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Concernant le pilote automatique:<br><br>1- si le SAS ne fonctionne pas, je peux quand même engager AP sur l'APMS<br>2- les modes SUP du PA peuvent être engagés sans le mode A. TRIM<br>3- les SEMA fonctionnent avec l'ordinateur SAS 2000<br>4- les SEMA ne peuvent fonctionner que si l'APM fonctionne<br>5- les EHA ne peuvent pas fonctionner si l'ordinateur SAS 2000 ne fonctionne pas",
+    "options": [
+      "Réponse A<br>1,5",
+      "Réponse B<br>Aucune des propositions n'est juste",
+      "Réponse C<br>Toutes les propositions sont justes",
+      "Réponse D<br>2,3,4,5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dans quels cas le mode HIGH NR est-il obligatoire?",
+    "options": [
+      "Réponse A<br>Tout le temps",
+      "Réponse B<br>Pour toutes masses totales supérieures à 2720kg",
+      "Réponse C<br>Pour toutes procédures CAT A, toutes masses supérieures à 2835kg et les opérations HES",
+      "Réponse D<br>Pour toutes procédures CAT A, toutes masses supérieures à 2835kg"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "AFCS",
+    "options": [
+      "Réponse A<br>Le SAS est composé, entre autre, d’un ordinateur SAS 2000, agissant directement sur les EHA des chaînes roulis/tangage, permettant ainsi de déplacer les commandes de vol.",
+      "Réponse B<br>Les vérins de trim, ou les vérins parallèles assurent le recentrage du vérins de série avant qu’ils n’arrivent en butée de leur domaine d’autorité. (R,T,L)",
+      "Réponse C<br>Si je réduits la puissance alors que le mode ALT est engagé, la vitesse va diminuer jusqu’à 30 kt puis le mode sup se coupe.",
+      "Réponse D<br>En cas de saturation d’un vérin de série, l’information sera matérialisée dans le bandeau du PFD par un triangle plein."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dans le NMS, quelle fonction permet de visualiser le temps de vol, l'heure de décollage et la distance parcourue en vol?",
+    "options": [
+      "Réponse A<br>PLAN DATA",
+      "Réponse B<br>PROGRESS",
+      "Réponse C<br>FLIGHT LOG",
+      "Réponse D<br>INIT"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vous êtes à une masse de 2690 kg. Jusqu'à quelle altitude le constructeur vous autorise le stationnaire DES ainsi que le décollage et l'atterrissage?",
+    "options": [
+      "Réponse A<br>12 000 ft",
+      "Réponse B<br>15 000 ft",
+      "Réponse C<br>20 000 ft",
+      "Réponse D<br>10 000 ft"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Les FADEC de l'EC-135:",
+    "options": [
+      "Réponse A<br>En vol, si l'interrupteur FADEC est mis sur OFF, le FADEC correspondant n'est plus alimenté et « REDUND » s'affiche",
+      "Réponse B<br>Sont alimentés uniquement en courant continu par le réseau de bord",
+      "Réponse C<br>Sont alimentés en courant alternatif par des alternateurs indépendants situés sur les moteurs",
+      "Réponse D<br>Ne sont pas alimentés, ils fonctionnent sans alimentation quelconque. Par conséquent, ils sont très fiables"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Se référer à l'annexe<br>Sur l'image jointe qui correspond à un mode écolage, en fonction des propositions suivantes, choisir celles qui correspondent à la situation:<br><br>1- le moteur 1 est coupé virtuellement<br>2- le moteur 2 est coupé virtuellement<br>3- le régime de vol figuré est de type AEO<br>4- le régime de vol figuré est de type OEI<br>5- cela fait 1 minute 57 secondes que la plage OEI est utilisée<br>6- il faut appuyer sur topping pour sortir de la plage OEI High<br><img src=\"OEI.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options": [
+      "Réponse A<br>2,4,6",
+      "Réponse B<br>2,4,5",
+      "Réponse C<br>2,3,5",
+      "Réponse D<br>2,4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A quoi sert l'interrupteur 'SHED EMER' situé sur le panneau plafond ?",
+    "options": [
+      "Réponse A<br>À supprimer l'alimentation des barres de délestage par les génératrices",
+      "Réponse B<br>À isoler les High Load",
+      "Réponse C<br>À permettre l'alimentation du treuil par la batterie en cas de panne de GENE",
+      "Réponse D<br>À alimenter les barres de délestage directement par la batterie"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "La limite du centre de gravité longitudinal est:",
+    "options": [
+      "Réponse A<br>4,57m",
+      "Réponse B<br>4,369m",
+      "Réponse C<br>Dépend de la masse",
+      "Réponse D<br>Ne peut être atteinte"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Les moteurs sont sur IDLE, le carré blanc de première limitation du moteur 1 est sur le TRQ et celui du moteur 2 sur TOT, que faites-vous?",
+    "options": [
+      "Réponse A<br>Vous mettez le moteur 1 au régime nominal en premier",
+      "Réponse B<br>Vous mettez le moteur 2 au régime nominal en premier",
+      "Réponse C<br>Vous mettez les deux moteurs au nominal simultanément",
+      "Réponse D<br>Vous coupez les moteurs car il s'agit là d'un défaut du FLI qui nécessite une intervention technique"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Se référer à l'annexe<br>Sur la figure jointe, que représentent le rond et l'étoile?<br><br>1- un SEMA collectif<br>2- un EHA tangage<br>3- un EHA roulis<br>4- un SEMA roulis<br>5- un SEMA lacet<br>6- un SEMA tangage<br>7- deux FOG<br><br>La combinaison juste est:<br><img src=\"SEMA.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options": [
+      "Réponse A<br>2,3",
+      "Réponse B<br>7",
+      "Réponse C<br>4,5",
+      "Réponse D<br>4,6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En cas de défaillance d'un FADEC sur un moteur",
+    "options": [
+      "Réponse A<br>L'autre FADEC assure la régulation carburant des deux moteurs, le mode HIGH NR n'est plus disponible",
+      "Réponse B<br>La régulation doit être manuelle sur le moteur concerné, pas de conséquence sur le moteur restant, le mode HIGH NR est disponible",
+      "Réponse C<br>L'affichage au CAD prévient le pilote d'une défaillance FADEC, il doit couper le moteur concerné",
+      "Réponse D<br>La régulation manuelle doit être assurée par le pilote sur le moteur concerné, pas de conséquence sur l'autre moteur, le mode HIGH NR n'est plus disponible"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Vous êtes au sol à 2880 kg. Lors du décollage, après étude des performances vous devrez:",
+    "options": [
+      "Réponse A<br>Engagez le mode HIGH NR car vous êtes à une MT > 2835 kg",
+      "Réponse B<br>Le mode HIGH NR n'est pas nécessaire à cette masse",
+      "Réponse C<br>Le mode HIGH NR ne sert qu'à diminuer les nuisances sonores et le pilote a le libre choix de l'engager",
+      "Réponse D<br>Vous n'engagez pas le HIGH NR car la MT < 2900 kg"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Se référer à l'annexe<br>En quelle matière est fabriqué le train d'atterrissage de l'EC 135 T2+?<br><img src=\"train.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\">",
+    "options": [
+      "Réponse A<br>En aluminium",
+      "Réponse B<br>En acier",
+      "Réponse C<br>En inox",
+      "Réponse D<br>En titane"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qu'indique le voyant rouge sur la poignée de commande treuil?",
+    "options": [
+      "Réponse A<br>Un défaut de fonctionnement de la poignée de commande",
+      "Réponse B<br>Une température d'huile et / ou moteur treuil au-dessus de 138°C",
+      "Réponse C<br>Un défaut de continuité du circuit de cisaillement câble",
+      "Réponse D<br>Un test automatique de fonctionnement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vous affichez le DTED sur votre Euronav, sur quelle base calcule-t-il votre MFO?",
+    "options": [
+      "Réponse A<br>QNH NMS",
+      "Réponse B<br>1013 hPa",
+      "Réponse C<br>la sonde alti",
+      "Réponse D<br>le QNH côté master RCU"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Au Warning Unit, le voyant XMSN OIL P. indique:",
+    "options": [
+      "Réponse A<br>Une pression d'huile BTP est trop faible (inférieure à 0.5 bar)",
+      "Réponse B<br>Les deux pressions BTP sont trop faibles (inférieures à 0.5 bar)",
+      "Réponse C<br>L'indication de pression d'huile sur le CAD est en panne",
+      "Réponse D<br>Les pressions BTP sont en auto-test"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vous êtes en vol et vous devez rapidement calculer une VNE, où trouvez-vous la réponse hormis dans le manuel de vol?",
+    "options": [
+      "Réponse A<br>Vous n'avez rien à calculer, la machine vous affiche la VNE automatiquement",
+      "Réponse B<br>Il n'y a pas de calcul car la VNE est toujours 155kt",
+      "Réponse C<br>Vous trouverez les informations sur la partie supérieure de la planche de bord",
+      "Réponse D<br>Vous faites plusieurs Scroll sur le VEMD pour la trouver"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Les pompes de transfert sont alimentées par les bars BUS suivantes:",
+    "options": [
+      "Réponse A<br>La pompe de transfert avant est alimentée par la barre essentielle 1. La pompe de transfert arrière est alimentée par la barre de délestage 2",
+      "Réponse B<br>La pompe de transfert avant est alimentée par la barre essentielle 1. La pompe de transfert arrière est alimentée par la barre essentielle 2",
+      "Réponse C<br>Les pompes de transfert sont alimentées par les barres essentielles",
+      "Réponse D<br>Les pompes de transfert sont alimentées par les barres de délestage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lors du test hydraulique, le durcissement du palonnier intervient:",
+    "options": [
+      "Réponse A<br>Quand on passe le sélecteur HYD TEST sur SYS 1",
+      "Réponse B<br>Quand on passe le sélecteur HYD TEST sur SYS 2",
+      "Réponse C<br>Les palonniers ne durcissent jamais",
+      "Réponse D<br>Les tests hydrauliques ne permettent pas d'essayer le debattement des commandes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Si le BUS TIE 1 est sur NORM et le BUS TIE 2 sur OPEN, quelle barre charge la batterie?",
+    "options": [
+      "Réponse A<br>Aucune, la batterie ne peut pas charger dans cette configuration",
+      "Réponse B<br>Aucune, la batterie débite",
+      "Réponse C<br>La 1",
+      "Réponse D<br>La 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle est l'altitude maximale pour pouvoir décoller à 2690kg?",
+    "options": [
+      "Réponse A<br>10000ft",
+      "Réponse B<br>12000ft",
+      "Réponse C<br>15000ft",
+      "Réponse D<br>20000ft"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Parmi les propositions, quelles sont celles qui provoquent l'allumage du voyant LIMIT au FLI?<br><br>1 - dépassement de Tq<br>2 - dépassement de Mast Moment<br>3 - dépassement de N1<br>4 - dépassement de température moteur (ENG OVHT)<br>5 - dépassement de TOT<br>6 - dépassement de temps en PMD AEO ou OEI (Low et/ou High)<br>7 - dépassement de NRO (tours rotor > 112 %)",
+    "options": [
+      "Réponse A<br>toutes les propositions sont exactes",
+      "Réponse B<br>1,2,3,5,6",
+      "Réponse C<br>1,2,3,4",
+      "Réponse D<br>1,3,5,6,7"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Le BUS TIE 1 est sur OFF et le BUS TIE 2 est sur NORM",
+    "options": [
+      "Réponse A<br>La batterie n'est plus alimentée",
+      "Réponse B<br>La batterie est alimentée par la génératrice 1",
+      "Réponse C<br>La batterie est alimentée par la génératrice 2",
+      "Réponse D<br>La batterie est alimentée par les génératrices 1 et 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "La lubrification du plateau cyclique (swash plate) est assurée par",
+    "options": [
+      "Réponse A<br>Huile",
+      "Réponse B<br>Graisse",
+      "Réponse C<br>Pas de lubrification nécessaire car parties recouvertes de Téflon",
+      "Réponse D<br>Partie tournante - huile, partie fixe - graisse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Le voyant ROTOR RPM clignote et un signal sonore retentit pour:<br><br>1- NR inférieur ou égal à 97 %<br>2- NR supérieur ou égal à 103,5%<br>3- NR supérieur ou égal à 106%<br>4- NR supérieur ou égal à 112%<br>5- aucune limitation de temps associée<br>6- limitation de 20 s pour une valeur supérieure à 106%",
+    "options": [
+      "Réponse A<br>1,3,4,5",
+      "Réponse B<br>3,4,6",
+      "Réponse C<br>2,3,4,6",
+      "Réponse D<br>1,2,3,4,5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 14 000 ft d'altitude pression, vous êtes autorisé à poser:",
+    "options": [
+      "Réponse A<br>Jusqu'à 2520 kg",
+      "Réponse B<br>Jusqu'à 2720 kg",
+      "Réponse C<br>Jusqu'à 2660 kg",
+      "Réponse D<br>Jusqu'à 2210 kg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle réaction doit on avoir si l'on constate une panne de l'enregistreur de paramètres?",
+    "options": [
+      "Réponse A<br>L'aéronef est classé en tolérance technique",
+      "Réponse B<br>L'aéronef ne pourra effectuer que des opérations de secours",
+      "Réponse C<br>L'aéronef est interdit de vol",
+      "Réponse D<br>L'aéronef peut voler sur autorisation du commandant d'unité"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "À la fin de la mise en route je m'installe en place avant et je relève méticuleusement les fins du démarrage du deuxième moteur, l'aiguille du FLI est entre entre les 2 triangles de démarrage:",
+    "options": [
+      "Réponse A<br>Je lui demande pendant combien de temps elle y est restée et en fonction du temps, on peut partir en vol",
+      "Réponse B<br>Je considère que c'est du transitoire et on peut partir en vol",
+      "Réponse C<br>Je demande au pilote d'interrompre la mise en route et je procède à une extraction de la carte UMS",
+      "Réponse D<br>Le vol peut être poursuivi sur décision du commandant de bord"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quels sont les éléments minimums nécessaires pour le fonctionnement de la caméra MX-15?",
+    "options": [
+      "Réponse A<br>Caméra + télécommande + alimentation 28 V + SMD 68/45",
+      "Réponse B<br>Caméra + télécommande + alimentation 28 V + SMD 68/45 + console opérateur",
+      "Réponse C<br>Caméra + télécommande + alimentation 28 V + antenne de retransmission",
+      "Réponse D<br>Caméra + alimentation 28 V"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Les deux interrupteurs BUSTIE sont positionnés sur OFF",
+    "options": [
+      "Réponse A<br>Cela n'a aucune incidence car les barres primaires fournissent l'énergie à tout le système électrique",
+      "Réponse B<br>L'indication BAT DISCON s'affiche au CAD",
+      "Réponse C<br>La barre HIGH LOAD n'est plus alimentée, seul le treuil reste opérationnel",
+      "Réponse D<br>L'intégralité du circuit est coupé"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "À partir de quelle masse le High NR est-il obligatoire?",
+    "options": [
+      "Réponse A<br>2835kg",
+      "Réponse B<br>2910kg",
+      "Réponse C<br>2610kg",
+      "Réponse D<br>1500kg"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dans la logique du circuit carburant de l'EC 135:",
+    "options": [
+      "Réponse A<br>Le « LOW FUEL » s'affiche en premier au CAD suivi du « FUEL »",
+      "Réponse B<br>Le « FUEL » s'affiche en premier au Warning Unit suivi du « LOW FUEL » au CAD",
+      "Réponse C<br>Le « FUEL » s'affiche en premier au CAD suivi du « LOW FUEL » au Warning Unit",
+      "Réponse D<br>L'EC 135 dispose uniquement du voyant « LOW FUEL »"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vous effectuez un vol de croisière à haute altitude et vous remarquez que le déplacement du manche collectif vers le haut est limité par la butée prioritaire inférieure à la PMC.",
+    "options": [
+      "Réponse A<br>Sans objet. Le manche peut-être tiré davantage jusqu'à l'indication PMC",
+      "Réponse B<br>Évitable en sélectionnant le mode CAT A",
+      "Réponse C<br>Le résultat d'un mauvais réglage. Une action de maintenance est nécesaire",
+      "Réponse D<br>Normal. La butée peut uniquement être dépassée en cas d'urgence"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En régime OEI, si on n'a pas utilisé le régime 30sec, on peut utiliser le régime 2min pendant 2min30sec?",
+    "options": [
+      "Réponse A<br>Vrai",
+      "Réponse B<br>Faux",
+      "Réponse C<br>Uniquement à des températures supérieures à -5 degrés",
+      "Réponse D<br>Uniquement à des températures inférieures à 45 degrés"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La poutre de queue est en matériaux composites et est assemblée par collage sur la cellule",
+    "options": [
+      "Réponse A<br>Vrai",
+      "Réponse B<br>Faux",
+      "Réponse C<br>Uniquement sur les versions T2+",
+      "Réponse D<br>Uniquement sur les versions T2e"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "À quelle vitesse maximum peut-on utiliser le système Wescam?",
+    "options": [
+      "Réponse A<br>150 KIAS",
+      "Réponse B<br>350 KIAS",
+      "Réponse C<br>120 KIAS",
+      "Réponse D<br>250 KIAS"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Machine au sol vous ressentez un mouvement oscillant qui s'amplifie très rapidement. La conduite à tenir dans ce cas-là est:",
+    "options": [
+      "Réponse A<br>Aucun danger, vous êtes sur un rotor articulé, la situation va revenir à la normale sans action de votre part",
+      "Réponse B<br>Quitter le sol au plus vite quitte à accepter ces vibrations pendant quelques secondes",
+      "Réponse C<br>Réduire le pas collectif (si applicable) et couper le(s) moteurs(s) au plus vite OU quitter le sol rapidement",
+      "Réponse D<br>Il s'agit d'une résonance sol. Suffit de patienter 15 secondes pour que tout rentre dans l'ordre"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le déperditeur de potentiel de pale:",
+    "options": [
+      "Réponse A<br>Contient les masselottes d'équilibrage pour les pales",
+      "Réponse B<br>Permet d'évacuer l'électricité statique",
+      "Réponse C<br>Diminue la trainée de la pale",
+      "Réponse D<br>Aucune des réponses n'est correcte"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "L'allumage FUEL QTY FAIL s'allume au CAD",
+    "options": [
+      "Réponse A<br>Lorsque l'un des jaugeurs du réservoir principal est en panne",
+      "Réponse B<br>Lorsque la quantité de carburant contenue dans les nourrices atteint le bac niveau",
+      "Réponse C<br>Lorsqu'un jaugeur d'une nourrice ou que les deux jaugeurs du réservoir principal sont en panne",
+      "Réponse D<br>Lorsque les deux jaugeurs des nourrices sont en panne"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En vol, le contrôleur aérien nous informe d'un déclenchement de balise de détresse et nous demande de nous rendre sur place. Comment procéder?",
+    "options": [
+      "Réponse A<br>J'utilise le NAT 450, la direction et la distance s'afficheront sur l'écran du NAT",
+      "Réponse B<br>J'utilise le NAT 450, la direction s'affichera sur le PFD",
+      "Réponse C<br>J'utilise le NAT 450, la distance s'affichera sur le ND",
+      "Réponse D<br>J'utilise le NAT 450, la direction s'affichera sur le ND"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Où se trouvent les détecteurs incendie?",
+    "options": [
+      "Réponse A<br>Dans le compartiment BTP",
+      "Réponse B<br>Dans les compartiments moteurs",
+      "Réponse C<br>Sur les radiateurs",
+      "Réponse D<br>Dans les compartiments moteurs et batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Citez les sources d'alimentation électrique du FADEC.",
+    "options": [
+      "Réponse A<br>Alternatif (alimentation propre et indépendante), continue (GENE et batterie)",
+      "Réponse B<br>Alternatif (Inverter), alternatif (alimentation propre et indépendante), continue (GENE et batterie)",
+      "Réponse C<br>Alternatif (alimentation propre et indépendante), continue (batterie)",
+      "Réponse D<br>Alternatif (alimentation partagée entre les deux FADEC), continue (GENE et batterie)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La batterie",
+    "options": [
+      "Réponse A<br>Peut être rechargée par le groupe de parc quelque soit la position de l'interrupteur.",
+      "Réponse B<br>Ne peut pas être rechargée par le groupe de parc.",
+      "Réponse C<br>Peut être rechargée par le groupe de parc seulement si l'interrupteur BATT est sur ON.",
+      "Réponse D<br>Peut être rechargée par le groupe de parc seulement si l'interrupteur BATT est sur OFF."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Un contrôle de puissance au sol à PA 1000 ft, OAT 20°C, utIlisant 75% de couple, montre 820°C de TOT et 94% N1 sur le moteur n°1 et 800°C et 95,1% N1 sur le moteur N° 2.<br>Selon vous:",
+    "options": [
+      "Réponse A<br>La performance du moteur 1 est supérieure à la spécification et la performance du moteur 2 est inférieure à la spécification",
+      "Réponse B<br>La performance des deux moteurs est supérieure à la spécification",
+      "Réponse C<br>La performance du moteur 1 est inférieure à la spécification et la performance du moteur 2 est supérieure à la spécification",
+      "Réponse D<br>La performance des deux moteurs est inférieure à la spécification"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vous volez à l'altitude pression 3000 ft, OAT +20°C , masse actuelle de 2750 kg. Quelle est votre VNE?",
+    "options": [
+      "Réponse A<br>110 kts",
+      "Réponse B<br>140 kts",
+      "Réponse C<br>90 kts",
+      "Réponse D<br>95 kts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "IAS 120 kts, PA 5000 ft, OAT 10°C. Quelle est votre TAS?",
+    "options": [
+      "Réponse A<br>119 kts",
+      "Réponse B<br>113 kts",
+      "Réponse C<br>129 kts",
+      "Réponse D<br>124 kts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Masse de 2700 kg, PA 9000 ft, OAT + 22°C, air de prélèvement coupé. Quel est le taux de montée AEO à PMC et Vy?",
+    "options": [
+      "Réponse A<br>1000 ft/min",
+      "Réponse B<br>300 ft/min",
+      "Réponse C<br>900 ft/min",
+      "Réponse D<br>500 ft/min"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sur l'EC135, les ventilateurs et pompes hydrauliques sont entrainées par:",
+    "options": [
+      "Réponse A<br>Le système d'entrainement",
+      "Réponse B<br>Les moteurs",
+      "Réponse C<br>La génération électrique",
+      "Réponse D<br>Par le courant alternatif"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L'ensemble d'entrainement comporte:",
+    "options": [
+      "Réponse A<br>Une roue libre unique utilisée par les deux moteurs",
+      "Réponse B<br>Ne comporte pas de roue libre,  interdisant ainsi au moteur d'être entrainé par le rotor principal",
+      "Réponse C<br>deux roues libres par moteur, l'embrayage  du roue libre n'étant pas en prise pour le second moteur",
+      "Réponse D<br>Une roue libre par moteur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Le sens de rotation du rotor principal, contre le sens des aiguilles d'une montre. Il en résulte  un couple dans le sens des aiguilles d'une montre qui agit sur la boite de transmission principale et le fuselage",
+    "options": [
+      "Réponse A<br>C'est faux. Aucun couple n'intervient sur la boite de transmission",
+      "Réponse B<br>C'est vrai. Par conséquent, en vol stationnaire ou en vol à basse vitesse, l'hélicoptère a tendance à tourner vers la droite",
+      "Réponse C<br>C'est vrai.. Par conséquent, en vol stationnaire ou en vol à basse vitesse, l'hélicoptère a tendance à tourner vers la gauche",
+      "Réponse D<br>C'est faux car il tourne dans le sens des aiguilles d'une montre."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Le FCDS ( Flight control Display system )",
+    "options": [
+      "Réponse A<br>Est un système avionique numérique destiné à fournir les informations visuelles suivantes ; données de vol, du PA, infos GPS, camera FLIR...",
+      "Réponse B<br>Est un système avionique analogique qui permettent de remplacer l'indicateur de position, la bille, l'anémomètre, l'altimètre et le variometre.",
+      "Réponse C<br>Est un système numérique destiné seulement à fournir des données de vol.",
+      "Réponse D<br>Est un système avionique numérique qui fournit des informations de commandes de vol et de gestion de navigation uniquement."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L'indication EPU DOOR",
+    "options": [
+      "Réponse A<br>Indique qu'une porte coulissante est ouverte.",
+      "Réponse B<br>Indique que la trappe carburant est ouverte.",
+      "Réponse C<br>Indique que le groupe de parc est branché.",
+      "Réponse D<br>Indique que la trappe du groupe de parc est ouverte."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Le dispositif de dosage",
+    "options": [
+      "Réponse A<br>est installé sur le face avant du réducteur. C'est un dispositif hydromécanique, régulant le débit carburant. Il utilise des signaux de l'EECU ou la position de la poignée tournante",
+      "Réponse B<br>est installé sur le face arrière du réducteur. C'est un dispositif électromécanique, régulant le débit carburant. Il utilise des signaux de l'EECU ou la position de la poignée tournante",
+      "Réponse C<br>est installé sur le face avant du réducteur. C'est un dispositif hydromécanique, régulant le débit carburant. Il utilise seulement  des signaux de l'EECU",
+      "Réponse D<br>est installé sur le face avant du réducteur. C'est un dispositif électromécanique, régulant le débit carburant. Il utilise la position de la poignée tournante"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L'indication du couple",
+    "options": [
+      "Réponse A<br>Le couple est mesuré au niveau du moyeu rotor. C'est un système de roue phonique. Un signal analogique est traité par le FADEC et envoyé vers le CDS.",
+      "Réponse B<br>Le couple est mesuré au niveau du moyeu rotor. C'est un système de roue phonique. Un signal est traité par le FADEC et envoyé l'indicateur analogique.",
+      "Réponse C<br>Le couple est mesuré au niveau de l'arbre de sortie moteur. C'est un système de roue phonique. Un signal qui n'est pas traité par le FADEC mais un boitier de transformation  est envoyé vers le CPDS.",
+      "Réponse D<br>Le couple est mesuré au niveau de l'arbre de sortie moteur. C'est un système de roue phonique. Un signal est traité par le FADEC et envoyé vers le CPDS."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Le boîtier FADEC",
+    "options": [
+      "Réponse A<br>le FADEC est un calculateur analogique qui contrôle principalement le moteur correspondant, afin de fournir la puissance correcte et la vitesse au système de rotor",
+      "Réponse B<br>le FADEC est un calculateur numérique qui contrôle le régulateur et assure le démarrage automatique des moteurs seulement.",
+      "Réponse C<br>le FADEC est un calculateur numérique qui contrôle principalement le moteur correspondant, afin de fournir la puissance correcte et la vitesse au système de rotor. Il permet entre autre de démarrer automatiquement les moteurs, surveille le fonctionnement des GTM, régule automatiquement les moteurs à toutes vitesses et plage de puissance....",
+      "Réponse D<br>le FADEC est un calculateur numérique qui contrôle principalement le moteur correspondant, afin de fournir la puissance correcte et la vitesse au système de rotor. Il est utiliser pour démarrer les moteurs et les surveiller. Il n'a pas d'autre fonctions."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A quelle hauteur se situe la carénage de protection inférieur en bout de poutre de queue?",
+    "options": [
+      "Réponse A<br>102 cm",
+      "Réponse B<br>88 cm",
+      "Réponse C<br>75 cm",
+      "Réponse D<br>66 cm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Les EC 135 de la gendarmerie sont équipés d'une batterie délivrant:",
+    "options": [
+      "Réponse A<br>25 Ah",
+      "Réponse B<br>26 Ah",
+      "Réponse C<br>27 Ah",
+      "Réponse D<br>40 Ah"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Où se situe le bouton « TOPPING » 30 sec / 2 min, dans le poste de pilotage?",
+    "options": [
+      "Réponse A<br>Sur le boitier de commande moteur.",
+      "Réponse B<br>Sur le cyclique.",
+      "Réponse C<br>Sur le manche collectif.",
+      "Réponse D<br>Seul les versions antérieures au T2+ en sont équipés."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "La structure principale du fuselage",
+    "options": [
+      "Réponse A<br>absorbe tous les efforts transmis du système rotor principal par la boîte de transmission principal ainsi que tous les efforts provoqués par les moteurs, le train et la structure arrière",
+      "Réponse B<br>absorbe uniquement les efforts transmis du système rotor principal par la boîte de transmission principal ",
+      "Réponse C<br>absorbe uniquement les efforts provoqués par les moteurs.",
+      "Réponse D<br>absorbe les efforts transmis par la boîte de transmission principal, par les moteurs et le train."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L'allumage bas niveau des nourrices n'est pas simultané car:",
+    "options": [
+      "Réponse A<br>Les pompes de transfert ne débitent pas la même quantité de TR0",
+      "Réponse B<br>Les moteurs n'ont pas la même consommation",
+      "Réponse C<br>C'est faux, l'allumage du bas niveau des deux nourrices est simultané",
+      "Réponse D<br>La quantité carburant contenue dans les nourrices n'est pas identique par sécurité"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Un EC 135 équipé du FCDS comprend",
+    "options": [
+      "Réponse A<br>2 FCDM, 2 ICP, un RCU, 4 écrans (2 PFD et 2 ND ) SMD 45",
+      "Réponse B<br>2 FCDM, 2 ICP, 2 RCU, 3 écrans (1 PFD et 2 ND ) SMD 45 et 68",
+      "Réponse C<br>2 FCDM, 2 ICP, un RCU, 3 écrans (2 PFD et 1 ND )SMD 45 et 68",
+      "Réponse D<br>2 FCDM, 2 ICP, 2 RCU, 3 écrans (2 PFD et 2 ND ) SMD 45 et 68"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Le seuil d'activation de la protection survitesse est:",
+    "options": [
+      "Réponse A<br>105% + ou -5",
+      "Réponse B<br>117% + ou -4",
+      "Réponse C<br>121% + ou -2",
+      "Réponse D<br>114% + ou -1"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que signifie FADEC?",
+    "options": [
+      "Réponse A<br>Full Admission Directive Engine Certificate",
+      "Réponse B<br>Flight Advisory Direct Engine Control",
+      "Réponse C<br>First Authority Display Engine Correction",
+      "Réponse D<br>Full Authority Digital Engine Control"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Vous ne pouvez pas démarrer un moteur",
+    "options": [
+      "Réponse A<br>Le démarrage manuel n'est pas certifié et par conséquent il est désactivé",
+      "Réponse B<br>Vous passez le moteur sur MAN et vous démarrez",
+      "Réponse C<br>Vous réinitialisez le FADEC",
+      "Réponse D<br>Vous passez le FADEC en mode secours +"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vous êtes en finale, votre copilote a réglé sa sonde sur 200 ft et vous avez réglé la votre sur 100 ft",
+    "options": [
+      "Réponse A<br>La sonde sonnera uniquement à la plus basse des deux valeurs",
+      "Réponse B<br>La sonde sonnera uniquement à la plus haute des deux valeurs",
+      "Réponse C<br>La sonde sonnera au passage des deux valeurs",
+      "Réponse D<br>Il est impossible de régler les valeurs sonde à deux valeurs différentes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vous perdez l'écran ND",
+    "options": [
+      "Réponse A<br>Vous devez consulter les informations de cap sur le bas de l'écran VEMD",
+      "Réponse B<br>Vous n'avez plus que le compas de secours pour vous donner les informations de cap",
+      "Réponse C<br>le PFD passe automatiquement en mode composite et vous y retrouvez les informations",
+      "Réponse D<br>Il vous faut forcer les mode composite du PFD afin d'y retrouver les informations"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Système de lubrification de la transmission principale comprend:",
+    "options": [
+      "Réponse A<br>Puisard humide (we sump), une pompe à huile.",
+      "Réponse B<br>Puisard sec (dry sump), une pompe à huile.",
+      "Réponse C<br>Puisard humide (wet sump), deux pompes à l’huile.",
+      "Réponse D<br>Puisard sec (dry sump), deux pompes à l’huile."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Système de servocommande hydraulique pour:",
+    "options": [
+      "Réponse A<br>Cyclique et pas collectif.",
+      "Réponse B<br>Pas collectif et palonnier.",
+      "Réponse C<br>Cyclique et pas collectif et palonnier.",
+      "Réponse D<br>Cyclique et palonnier."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Les génératrices de l’EC 135 produisent:",
+    "options": [
+      "Réponse A<br>28V/160 ou 180A",
+      "Réponse B<br>28V/160 ou 200A",
+      "Réponse C<br>24V/160 ou 180A",
+      "Réponse D<br>24V/160 ou 200A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "EXT POWER sur le CPDS et le voyant BAT DISH apparaissent en même temps.",
+    "options": [
+      "Réponse A<br>Cela indique que le voltage du groupe parc  est plus bas que le voltage de la batterie.",
+      "Réponse B<br>Ce n’est pas possible.",
+      "Réponse C<br>Indique que le voltage du groupe parc  est plus élevé que le voltage de la batterie.",
+      "Réponse D<br>Indique que le courant sort de la batterie vers le groupe de parc."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L’hélicoptère peut opérer avec:",
+    "options": [
+      "Réponse A<br>JP-8 jusqu’à 20.000 ft",
+      "Réponse B<br>JP-4 jusqu’à 20.000 ft",
+      "Réponse C<br>JET 8 jusqu’à 20.000 ft",
+      "Réponse D<br>AVGAS jusqu’à 10.000ft"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lors du démarrage du premier GTM le FADEC est alimenté par:",
+    "options": [
+      "Réponse A<br>Une génératrice",
+      "Réponse B<br>Un alternateur",
+      "Réponse C<br>La batterie et la génératrice",
+      "Réponse D<br>La batterie seulement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Les deux GTM sont en fonctionnement, les FADECS sont alimentés par:",
+    "options": [
+      "Réponse A<br>Les génératrices",
+      "Réponse B<br>Des alternateurs",
+      "Réponse C<br>La batterie et les  génératrices",
+      "Réponse D<br>La batterie seulement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "La balise  ELT de détresse qui équipe les EC135 et EC 145",
+    "options": [
+      "Réponse A<br>Les signaux de détresses peuvent être reçus par une station sol ou vol sur 121,5Mhz et 243Mhz puis les satellites sur 406Mhz",
+      "Réponse B<br>Les signaux de détresses peuvent être reçus par une station sol ou vol sur 121,5Mhz  puis les satellites sur 406Mhz",
+      "Réponse C<br>Les signaux de détresses peuvent être reçus par une station sol ou vol sur 243Mhz puis les satellites sur 406Mhz",
+      "Réponse D<br>Les signaux de détresses peuvent être reçus par  les satellites sur 406Mhz ainsi que les différentes stations sur cette même fréquence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Les deux BUS TIE sont sur OFF, vous devez faire une ventilation",
+    "options": [
+      "Réponse A<br>Aucun problème vous pouvez réaliser la ventilation",
+      "Réponse B<br>Il faut au moins fermer une BUS TIE pour pouvoir faire une ventilation sur les deux moteurs",
+      "Réponse C<br>Vous devez fermer les deux BUS TIE pour pouvoir faire une ventilation sur les deux moteurs",
+      "Réponse D<br>Il suffit de réarmer les génératrices et les deux moteurs pourront être ventilés"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le circuit carburant d'un moteur (de la nourrice jusqu'au moteur) comporte",
+    "options": [
+      "Réponse A<br>Deux pompes carburant",
+      "Réponse B<br>Trois pompes carburant",
+      "Réponse C<br>Une pompe carburant",
+      "Réponse D<br>Quatre pompes carburant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Au sol, une résonance de trainée du rotor principal peut se produire pour des régimes de:",
+    "options": [
+      "Réponse A<br>60 – 68 %",
+      "Réponse B<br>70 – 75 %",
+      "Réponse C<br>65 – 72 %",
+      "Réponse D<br>55 – 65 %"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le voyant ROTOR RPM clignote et le GONG retenti pour:",
+    "options": [
+      "Réponse A<br>NR ≥ 103,5%",
+      "Réponse B<br>NR ≤ 97 %",
+      "Réponse C<br>NR ≥ 106 %",
+      "Réponse D<br>NR ≥ 112 %"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vous équipez de l'indicateur de Mat Moment, jusqu'à quelle valeur de dévers latéral max êtes-vous autorisé?",
+    "options": [
+      "Réponse A<br>10°",
+      "Réponse B<br>12°",
+      "Réponse C<br>14°",
+      "Réponse D<br>8°"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le « Follow-Me Trim » intervient à partir d'une vitesse:",
+    "options": [
+      "Réponse A<br>20 kt",
+      "Réponse B<br>30 kt",
+      "Réponse C<br>40 kt",
+      "Réponse D<br>50 kt"
+    ],
+    "answer": 1
   }
+
+  
 
   ]
  
