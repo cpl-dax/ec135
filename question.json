@@ -688,7 +688,247 @@
       "Réponse D<br>un détecteur de limaille"
     ],
     "answer": 3
+  },
+  {
+    "question": "Les radiateurs d'huile :",
+    "options": [
+      "Réponse A<br>Servent uniquement au refroidissement d'huile de la BTP",
+      "Réponse B<br>Servent exclusivement au refroidissement d'huile des moteurs",
+      "Réponse C<br>Comportent deux sections servant respectivement au refroidissement de l'huile des moteurs et de la BTP",
+      "Réponse D<br>Un seul radiateur permet le refroidissement du moteur et un second pour la BTP"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "L'indicateur du niveau d'huile de la BTP est situé",
+    "options": [
+      "Réponse A<br>Sur une bâche à huile indépendante de la BTP, situé coté moteur droit",
+      "Réponse B<br>Sont au nombre de deux, situés de part et d'autre du planché BTP",
+      "Réponse C<br>Une seul bâche visible après ouverture du capot gauche",
+      "Réponse D<br>Visible grâce à une trappe de visite situé à l'arrière droit de la BTP, l'huile étant contenu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "L'arbre de moyeu rotor",
+    "options": [
+      "Réponse A<br>Ne transmet pas le moment d'entrainement aux pales de rotor principal",
+      "Réponse B<br>Annule le couple de réaction du rotor principal",
+      "Réponse C<br>Est en fibre de carbone",
+      "Réponse D<br>Transmet le moment d'entrainement au rotor principal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "L'indication du mast moment",
+    "options": [
+      "Réponse A<br>La plage normale est comprise entre 0 et 50%, l'indicateur étant situé  sur le VEMD",
+      "Réponse B<br>la plage normale est comprise entre 50 et 66%, l'indicateur situé sur le CAD",
+      "Réponse C<br>La plage qui est comprise entre 0 et 50% se situe sur le FLI",
+      "Réponse D<br>La plage normale est comprise entre 0 et 77% et l'indicateur se trouve sur le FLI"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Les conditions d'utilisation du frein rotor",
+    "options": [
+      "Réponse A<br>Les moteurs sont coupés, le régime rotor est à 50% et l'OAT est supérieur à -30°C",
+      "Réponse B<br>Un moteur coupé seulement, régime rotor à 50% et OAT supérieur à -30°C",
+      "Réponse C<br>Les moteurs sont coupés, le régime rotor est à 30% et l'OAT est inférieur  à -30°C",
+      "Réponse D<br>Les moteurs sont coupés, le régime rotor est à 50% et la température n'est pas une limitation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Concernant le voyant d'avertissement « ROTOR BRK »",
+    "options": [
+      "Réponse A<br>apparaît d'est la mise sous tension de l'hélicoptère si le frein rotor est serré",
+      "Réponse B<br>il n'y a pas d'avertissement sur l'ec135",
+      "Réponse C<br>n'apparait pas à la mise sous tension si le frein est serré, mais n'apparaîtra qu'au début de la rotation des pales",
+      "Réponse D<br>apparaît à la mise sous tension du réseau de bord si la pression de mêtre cylindre est supérieure à 0,5 bars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Une pale de rotor",
+    "options": [
+      "Réponse A<br>est fabriquée en matériaux composites de fibre, son emplanture présente une légère rigidité en flexion et assure les fonctions des articulations de battement et de trainée,",
+      "Réponse B<br>est fabriquée en matériaux composites de fibre, son emplanture présente une importante rigidité en flexion pour  assurer les fonctions des articulations de battement et de trainée,",
+      "Réponse C<br>est fabriquée en matériaux composites de fibre, son emplanture présente une légère rigidité en flexion. Les fonctions des articulations de battement et de trainée sont assurées par la souplesse de la pale",
+      "Réponse D<br>est fabriquée en plastique et son emplanture ne présente  pas de rigidité en flexion pour assurer les fonctions des articulations de battement et de trainée"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "les pompes de carburant dans le réservoir sont accessibles par :",
+    "options": [
+      "Réponse A<br>le plancher cabine",
+      "Réponse B<br>les panneaux latéraux",
+      "Réponse C<br>la barque",
+      "Réponse D<br>le plancher moteur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "La structure principale du fuselage",
+    "options": [
+      "Réponse A<br>est composée d'une structure centrale et de la structure plancher qui forment un assemblage rigide",
+      "Réponse B<br>est constituée exclusivement de la structure centrale réalisée dans sa majeur partie en alliage d'aluminium",
+      "Réponse C<br>est composé d'une structure centrale puis de la structure planché et forment un ensemble souple pour amortir les vibrations",
+      "Réponse D<br>Est construite en un seul bloc d'aluminium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le fuselage comporte un certain nombre de panneaux de visite",
+    "options": [
+      "Réponse A<br>ne pouvant être déposé afin d'avoir accès au composants à l'intérieur de l'hélicoptère",
+      "Réponse B<br>qui peuvent être déposés afin d'avoir accès au composants à l'intérieur de l'hélicoptère",
+      "Réponse C<br>qui ne peuvent pas être déposés puisqu'ils sont fixe sur les capots",
+      "Réponse D<br>qui ne permettent seulement l'accès aux composant électriques de l'appareil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sur les appareils de type EC 135",
+    "options": [
+      "Réponse A<br>l'influence du vent n'a pas réellement d'importance grâce au fénestron",
+      "Réponse B<br>En autorotation le vent de la droite est a privilégier et en limite de puissance le vent de la gauche",
+      "Réponse C<br>En autorotation le vent de la gauche est a privilégier et en limite de puissance le vent de la droite",
+      "Réponse D<br>Seul le vent de la gauche est a privilégier en limite de puissance car les autorotations sont interdites sur l'EC 135"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Le rotor arrière",
+    "options": [
+      "Réponse A<br>Est équipé de 10 pales présentent une répartition régulière. Cette disposition produit une superposition des vibrations acoustique",
+      "Réponse B<br>Est équipé de 10 pales présentent une répartition irrégulière. Cette disposition produit une superposition des vibrations acoustique",
+      "Réponse C<br>Est équipé de 10 pales présentent une répartition régulière. Cette disposition permet de réduire le niveau de bruit du rotor arrière",
+      "Réponse D<br>Est équipé de 12 pales présentent une répartition irrégulière. Cette disposition produit une superposition des vibrations acoustique"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Les composants principaux de la commande du rotor arrière sont les suivants",
+    "options": [
+      "Réponse A<br>Ensemble palonnier, commande flexball, une SEMA et la servocommande Fenestron",
+      "Réponse B<br>Ensemble palonnier, commande à bille, une SEMA et la servocommande EHA  Fenestron",
+      "Réponse C<br>Ensemble palonnier, commande rigide, deux SEMA et la servocommande MHA Fenestron",
+      "Réponse D<br>Ensemble palonnier, commande à bille, deux SEMA et une  servocommande MHA Fenestron"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Les vérins TRIM",
+    "options": [
+      "Réponse A<br>Ils sont installés sous le plancher de la cabine. Ils permettent de fournir un effort de commande artificiel. C'est pour cette raison qu'ils sont montés sur la commandes cyclique, les palonniers et le collectif.",
+      "Réponse B<br>Ils sont installés sous le plancher de la cabine. Ils permettent de fournir un effort de commande artificiel. C'est pour cette raison que deux vérins de Trim latéral et longitudinal relient la commande cyclique ainsi qu'un vérin de compensation relie la chaine lacet",
+      "Réponse C<br>Ils sont installés sous le plancher de la cabine. Ils permettent de fournir un effort de commande artificiel. C'est pour cette raison que deux vérins de Trim latéral et longitudinal relient la commande cyclique.",
+      "Réponse D<br>Ils sont installés en amont des EHA. Ils permettent de fournir un effort de commande artificiel. C'est pour cette raison que deux vérins de Trim latéral et longitudinal relient la commande cyclique. La chaine lacet est asservit par deux SEMA montées en série."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le SEMA de lacet :",
+    "options": [
+      "Réponse A<br>Monté en série, il converti le signal du FOG en entrée mécanique vers la chaîne de commande du rotor arrière.",
+      "Réponse B<br>Monté en parallèle sur la commande, il converti le signal du FOG en entrée mécanique vers la chaîne de commande du rotor arrière.",
+      "Réponse C<br>Monté en série sur la commande, il ne reçoit aucun signal mais agit sur la chaîne de commande du rotor arrière.",
+      "Réponse D<br>Il n'y a pas de SEMA sur la commande arrière il s'agit d'un EHA."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La génération hydraulique",
+    "options": [
+      "Réponse A<br>Comporte deux circuits identiques, le n°1 assiste la commande du rotor arrière.",
+      "Réponse B<br>Comporte un circuit unique qui assiste l'ensemble des commandes.",
+      "Réponse C<br>Comporte deux circuits identiques, les deux circuit assistent la commande du rotor arrière.",
+      "Réponse D<br>Comporte deux circuits identiques, le n°2 assiste la commande du rotor arrière."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lors du test des circuits hydrauliques",
+    "options": [
+      "Réponse A<br>Le test du circuit n°2 (interrupteur en position SYS 2) coupe le circuit n°1 et des efforts apparaissent sur la chaîne lacet.",
+      "Réponse B<br>Le test du circuit n°2  (interrupteur en position SYS 2) coupe le circuit n°2 et des efforts apparaissent sur la chaîne lacet.",
+      "Réponse C<br>Le test du circuit n°2  (interrupteur en position SYS 2) coupe le circuit n°1 et il n'y a aucun effort sur la chaîne lacet.",
+      "Réponse D<br>Le test du circuit n°2 (interrupteur en position SYS 2) coupe les deux circuits et des efforts apparaissent sur toutes les commandes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Le système hydraulique du rotor principal.",
+    "options": [
+      "Réponse A<br>est composé de deux EHA pour les axes de tangage et de roulis et d'une MHA pour la commande de pas collectif.",
+      "Réponse B<br>est composé de deux MHA pour les axes de tangage et de roulis et d'une EHA pour la commande de pas collectif.",
+      "Réponse C<br>est composé de deux EHA pour les axes de tangage et de roulis et d'une SEMA pour la commande de pas collectif.",
+      "Réponse D<br>est composé de trois EHA agissant sur les axes de tangage, roulis et sur la commande de pas collectif."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L'EC135 gendarmerie est équipé",
+    "options": [
+      "Réponse A<br>d'un T1 Turbomeca ARRIUS 2B",
+      "Réponse B<br>d'un  T2 turbomeca ARRIUS 2B2",
+      "Réponse C<br>d'un Pratt&whitney 2006B",
+      "Réponse D<br>d'un Pratt&whitney 206B2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Le vase d'expansion d'une contenance de 14,5 litres",
+    "options": [
+      "Réponse A<br>recueille une augmentation du volume carburant, lorsque celui chauffe",
+      "Réponse B<br>permet de recueillir le carburant  avant son transfert vers les GTM",
+      "Réponse C<br>est un système qui alimente les deux nourrices simultanément",
+      "Réponse D<br>est une réserve supplémentaire de carburant en cas de panne de l'une des nourrices"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le système de stockage carburant comprend",
+    "options": [
+      "Réponse A<br>quatre cellules rigides installées sous la barque",
+      "Réponse B<br>quatre cellules souples installées en série dans la barque du fuselage",
+      "Réponse C<br>deux cellules de réservoir flexibles installées en série dans la barque",
+      "Réponse D<br>un réservoir souple installé en dans la barque."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "La commande précise de la vitesse de sortie du moteur est assurée par",
+    "options": [
+      "Réponse A<br>une commande analogique moteur à autorité partielle, multicanal avec régulateur carburant mécanique de secours; il s'agit du FADEC",
+      "Réponse B<br>une commande numérique moteur à autorité partielle simple  canal, avec régulateur carburant mécanique de secours; il s'agit du FADEC",
+      "Réponse C<br>une commande numérique moteur à autorité totale multicanal, avec régulateur carburant mécanique de secours; il s'agit du Vartoms.",
+      "Réponse D<br>une commande numérique moteur à autorité totale simple canal, avec régulateur carburant mécanique de secours ; Il s'agit du FADEC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Réservoir principal.",
+    "options": [
+      "Réponse A<br>Il comporte deux jaugeurs - en cas de panne d'un des jaugeurs l'indication « FUEL QTY DEGR » apparaît au CAD.",
+      "Réponse B<br>Il comporte deux jaugeurs -  en cas de panne d'un des jaugeurs l'indication « FUEL QTY FAIL » apparaît au CAD.",
+      "Réponse C<br>Il comporte un jaugeur -  en cas de panne du jaugeur l'indication « FUEL QTY FAIL » apparaît au CAD.",
+      "Réponse D<br>Il comporte un jaugeur -  en cas de panne du jaugeur l'indication « FUEL QTY DEGR» apparaît au CAD (seulement si les jaugeurs des nourrices sont opérationnels)."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Circuit de lubrification moteur.",
+    "options": [
+      "Réponse A<br>Il est composé d'une bâche hydraulique indépendante du moteur, lubrification par carter sec.",
+      "Réponse B<br>Il est composé d'une bâche hydraulique intégrée au moteur, lubrification par carter sec.",
+      "Réponse C<br>Le moteur est lubrifié par un carter humide et un système de gicleurs.",
+      "Réponse D<br>Le moteur est lubrifié par barbotage."
+    ],
+    "answer": 1
   }
 
-  
-]
+  ]
+ 
