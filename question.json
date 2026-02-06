@@ -1958,6 +1958,26 @@
       "Réponse D<br>50 kt"
     ],
     "answer": 1
+  },
+  {
+    "question": "La perte du HIGH-NR intervient:",
+    "options": [
+      "Réponse A<br>Lors d'une panne ADC 1",
+      "Réponse B<br>Lors d'une panne ADC 2",
+      "Réponse C<br>Jamais",
+      "Réponse D<br>Le HIGH-NR est alimenté par la batterie, par conséquent, sa perte est très rare"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "La perte du HIGH-NR intervient:",
+    "options": [
+      "Réponse A<br>Lors d'une panne ADC 1",
+      "Réponse B<br>Lors d'une panne du voyant HIGH-NR",
+      "Réponse C<br>Lors d'une perte d'affichage du VEMD 1",
+      "Réponse D<br>Le HIGH-NR est alimenté par la batterie, par conséquent, sa perte est très rare"
+    ],
+    "answer": 2
   }
 
   
